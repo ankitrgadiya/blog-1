@@ -3,14 +3,7 @@ permalink: /blog/:title
 
 
 # My variables
-name: My Blog
-description: A Jekyll Theme
-google_verification: null
-
-
-# File management
-include: [".htaccess"]
-exclude: ["README.md", "LICENSE"]
+name: Blog
 
 
 # Sass
